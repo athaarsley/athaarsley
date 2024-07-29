@@ -36,7 +36,7 @@
 - 🌱 I’m currently learning **Vue.js and Express.js** to add some magic to my coding spells.
 - 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
-- 📫 How to reach me: Shoot me an email at **[godyracks@gmail.com](mailto:godyracks@gmail.com)**, or WhatsApp **+254 112 582559** and let's connect.
+- 📫 How to reach me: Shoot me an email at **[godyracks@gmail.com](hahah.com)**, or WhatsApp **+254 112 582559** and let's connect.
 - ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs** to keep my imagination fueled and my coding vibes strong.
 
 🌐 Check out my latest website project: [Branighan Group Ltd](https://branighangroup.com)
