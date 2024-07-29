@@ -54,11 +54,9 @@
 ### My Favorite Tools and Technologies
  <img width="90" height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
  <img width="90" height="30" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
- <img width="90" height="30" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js"/>
- <img width="90" height="30" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js"/>
- <img width="90" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
  <img width="90" height="30" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
  <img width="90" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
+ <img width="90" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </div>
   <br />
 <p align="center">
@@ -66,18 +64,13 @@
 </p>
 
 ### Inspirational Quotes
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "There is nothing new under the sun" – Gallant Sigma
 
-> "First, solve the problem. Then, write the code." – John Johnson
+> "Cinnamonnoroll" – Hello Kitty
 
-> "Experience is the name everyone gives to their mistakes." – Oscar Wilde
+> "SnowBall will be SnowBall" – Patrick Johnson
 
-### Connect with Me
-<p align="center">
-  <a href="https://twitter.com/godyracks" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/godfrey-onyinkwa-93712827a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://www.instagram.com/gody_racks/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+> "HTS - Harus Tetap Sholat" – Pak vinsen
 
 ### Support Me
 If you enjoy my work, consider supporting me:
