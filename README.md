@@ -35,12 +35,10 @@
 - 📫 How to reach me: Shoot me an email at **[godyracks@gmail.com](mailto:athaferdyan13@gmail.com)**, or Whatsapp **0896-6036-6262** and let's connect.
 - ⚡ Fun fact: **I like to meet new peeps in my jorney, also I like to play ROBLOX since I was 9 years old😔👆** to keep my imagination fueled and my coding vibes strong.
 
-🌐 Check out my latest website project: [](https://branighangroup.com)
-
 🎓 Currently studying BSc Computer Science and tinkering with Jetpack Compose and Cisco/Huawei network simulators. I'm also an API developer and a master of computer hardware assembly or repair.
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=godyracks&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=athaarsley&style=for-the-badge&color=blue" alt=""/>
 </div>
 
 ### Recent Projects Showcase
