@@ -27,7 +27,7 @@
 </div>
 
 ### About Me
-- 🔭 I’m currently active on **Youtube & game develeping**
+- 🔭 I’m currently active on **"Attention" Developing**
 - 🌱 I’m currently learning **Lua & Roblox GFX** to add some magic to my coding spells.
 - 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
@@ -40,22 +40,14 @@
   <img src="https://komarev.com/ghpvc/?username=athaarsley&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-### Recent Projects Showcase
-- **Branighan Group**: [Real Estate, East African Design, Buy & Build Firm](https://branighangroup.com)
-- **Chang Adventure**: [Trips and Tours (still under development) ](https://changadventure.co.ke)
+### Best Projects Showcase
+- **2022 -2024**: [AGS](https://itemku.com/t/atha-game-store) [Arsley](https://itemku.com/t/arsley)
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GodyRacks&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodyRacks&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=athaarsley&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athaarsley&theme=radical" alt="GitHub Streak Stats"/>
 </p>
-
-
-
-### Recent Blog Posts
-- **[What is Github?](https://thinkwemake.com/blog/full-article/level-up-your-coding-journey:-why-github-is-essential-for-beginners-and-how-to-get-started)**
-- **[GB Whatsapp Issues, Ban.](https://thinkwemake.com/blog/full-article/unpacking-whatsapp-gb:-issues,-privacy-concerns,-and-transitioning-to-official-messenger)**
-
 
 <div align="center" style="max-width: 500px; margin: 0 auto;">
 
