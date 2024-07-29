@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/GodyRacks?tab=followers">
-    <img src="https://img.shields.io/github/followers/GodyRacks?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
+  <a href="https://github.com/athaarsley?tab=followers">
+    <img src="https://img.shields.io/github/followers/athaarsley?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
 </p>
 
@@ -19,27 +19,23 @@
     <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js"/>
     <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
      <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/kivy-%23FF8700.svg?style=for-the-badge&logo=kivy&logoColor=white" alt="Kivy"/>
-    <img src="https://img.shields.io/badge/CodeIgniter-%23EE432E.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   </p>
 </div>
 
 ### About Me
-- 🔭 I’m currently working on **building exciting web applications**
-- 🌱 I’m currently learning **Vue.js and Express.js** to add some magic to my coding spells.
+- 🔭 I’m currently active on **Youtube & game develeping**
+- 🌱 I’m currently learning **Lua & Roblox GFX** to add some magic to my coding spells.
 - 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
-- 📫 How to reach me: Shoot me an email at **[godyracks@gmail.com](hahah.com)**, or WhatsApp **+254 112 582559** and let's connect.
-- ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs** to keep my imagination fueled and my coding vibes strong.
+- 😨 Talkin about business ?? **Lets Cook that fkin lesgo**, and I'll bring much food for it😰!
+- 📫 How to reach me: Shoot me an email at **[godyracks@gmail.com](mailto:athaferdyan13@gmail.com)**, or Whatsapp **0896-6036-6262** and let's connect.
+- ⚡ Fun fact: **I like to meet new peeps in my jorney, also I like to play ROBLOX since I was 9 years old😔👆** to keep my imagination fueled and my coding vibes strong.
 
-🌐 Check out my latest website project: [Branighan Group Ltd](https://branighangroup.com)
+🌐 Check out my latest website project: [](https://branighangroup.com)
 
 🎓 Currently studying BSc Computer Science and tinkering with Jetpack Compose and Cisco/Huawei network simulators. I'm also an API developer and a master of computer hardware assembly or repair.
 
