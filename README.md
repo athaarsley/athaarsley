@@ -98,7 +98,7 @@ If you enjoy my work, consider supporting me:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GodyRacks/GodyRacks/main/github-snake.svg" alt="Snake Animation" style="pointer-events: none;"/>
+  <img src="https://raw.githubusercontent.com/athaarsley/athaarsley/main/github-snake.svg" alt="Snake Animation" style="pointer-events: none;"/>
 </p>
 
 
