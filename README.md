@@ -64,11 +64,6 @@
 </p>
 
 ### Inspirational Quotes
-> "There is nothing new under the sun" – Gallant Sigma
-
-> "Cinnamonnoroll" – Hello Kitty
-
-> "SnowBall will be SnowBall" – Patrick Johnson
 
 > "HTS - Harus Tetap Sholat" – Pak vinsen
 
