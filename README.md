@@ -27,11 +27,9 @@
 </div>
 
 ### About Me
-- 🔭 I’m currently active on **"Attention" Developing**
 - 🌱 I’m currently learning **Lua & Roblox GFX** to add some magic to my coding spells.
 - 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
-- 😨 Talkin about business ?? **Lets Cook that fkin lesgo**, and I'll bring much food for it😰!
 - 📫 How to reach me: Shoot me an email at **[athaferdyan13@gmail.com](mailto:athaferdyan13@gmail.com)**, or Whatsapp **0896-6036-6262** and let's connect.
 - ⚡ Fun fact: **I like to meet new peeps in my jorney, also I like to play ROBLOX since I was 9 years old😔👆** to keep my imagination fueled and my coding vibes strong.
 
